@@ -1,8 +1,5 @@
 # Instagram 2.0 Clone With ReactJs!
-## <a href="https://project-rouge-pi.vercel.app" target="_blank">🔴 LIVE DEMO</a>
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+>
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
